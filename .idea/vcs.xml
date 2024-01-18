@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_10_spring_data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_11_spring_security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_1_context" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_2_context" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_3_jdbc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_3_jdbc_p2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_4_spring_aop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_51_spring_trx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_52_spring_trx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_53_spring_trx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_7_more_rest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_8_spring_data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_8_spring_data/_8_spring_data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_9_spring_data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring_boot_101" vcs="Git" />
+  </component>
+</project>

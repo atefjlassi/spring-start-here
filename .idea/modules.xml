@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring course - laur spilca.iml" filepath="$PROJECT_DIR$/.idea/Spring course - laur spilca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10_spring_data/_10_spring_data.iml" filepath="$PROJECT_DIR$/_10_spring_data/_10_spring_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_11_spring_security/_11_spring_security/_11_spring_security.iml" filepath="$PROJECT_DIR$/_11_spring_security/_11_spring_security/_11_spring_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12_web_scopes/_12_web_scopes.iml" filepath="$PROJECT_DIR$/_12_web_scopes/_12_web_scopes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1_context/_1_context.iml" filepath="$PROJECT_DIR$/_1_context/_1_context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2_context/_2_context.iml" filepath="$PROJECT_DIR$/_2_context/_2_context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3_jdbc/_3_jdbc.iml" filepath="$PROJECT_DIR$/_3_jdbc/_3_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3_jdbc_p2/_3_jdbc_p2.iml" filepath="$PROJECT_DIR$/_3_jdbc_p2/_3_jdbc_p2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_4_spring_aop/_4_spring_aop.iml" filepath="$PROJECT_DIR$/_4_spring_aop/_4_spring_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_51_spring_trx/_51_spring_trx.iml" filepath="$PROJECT_DIR$/_51_spring_trx/_51_spring_trx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_52_spring_trx/_52_spring_trx.iml" filepath="$PROJECT_DIR$/_52_spring_trx/_52_spring_trx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_53_spring_trx/_53_spring_trx.iml" filepath="$PROJECT_DIR$/_53_spring_trx/_53_spring_trx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_7_more_rest/_7_more_rest.iml" filepath="$PROJECT_DIR$/_7_more_rest/_7_more_rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_8_spring_data/_8_spring_data.iml" filepath="$PROJECT_DIR$/_8_spring_data/_8_spring_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_9_spring_data/_9_spring_data.iml" filepath="$PROJECT_DIR$/_9_spring_data/_9_spring_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_101/spring_boot_101.iml" filepath="$PROJECT_DIR$/spring_boot_101/spring_boot_101.iml" />
+    </modules>
+  </component>
+</project>

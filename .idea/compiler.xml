@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_1_context" />
+        <module name="_3_jdbc_p2" />
+        <module name="_9_spring_data" />
+        <module name="_3_jdbc" />
+        <module name="_52_spring_trx" />
+        <module name="_2_context" />
+        <module name="_8_spring_data" />
+        <module name="_53_spring_trx" />
+        <module name="_51_spring_trx" />
+        <module name="_10_spring_data" />
+        <module name="_11_spring_security" />
+        <module name="_7_more_rest" />
+        <module name="spring_boot_101" />
+        <module name="_12_web_scopes" />
+        <module name="_4_spring_aop" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_10_spring_data" target="11" />
+      <module name="_11_spring_security" target="11" />
+      <module name="_12_web_scopes" target="11" />
+      <module name="_1_context" target="10" />
+      <module name="_2_context" target="10" />
+      <module name="_3_jdbc" target="10" />
+      <module name="_3_jdbc_p2" target="10" />
+      <module name="_4_spring_aop" target="10" />
+      <module name="_51_spring_trx" target="10" />
+      <module name="_52_spring_trx" target="10" />
+      <module name="_53_spring_trx" target="10" />
+      <module name="_7_more_rest" target="11" />
+      <module name="_8_spring_data" target="11" />
+      <module name="_9_spring_data" target="11" />
+      <module name="spring_boot_101" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="_10_spring_data" options="-parameters" />
+      <module name="_11_spring_security" options="-parameters" />
+      <module name="_12_web_scopes" options="-parameters" />
+      <module name="_1_context" options="" />
+      <module name="_2_context" options="" />
+      <module name="_3_jdbc" options="" />
+      <module name="_53_spring_trx" options="" />
+      <module name="_7_more_rest" options="-parameters" />
+      <module name="_8_spring_data" options="-parameters" />
+      <module name="_9_spring_data" options="-parameters" />
+      <module name="spring_boot_101" options="-parameters" />
+    </option>
+  </component>
+</project>

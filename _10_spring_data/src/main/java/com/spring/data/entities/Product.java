@@ -1,0 +1,37 @@
+package com.spring.data.entities;
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.relational.core.mapping.Table;
+
+@Table(name = "product_")
+public class Product {
+
+  @Id
+  private int id;
+
+  private String name;
+
+  public Product() {
+  }
+
+  public Product(int id, String name) {
+    this.id = id;
+    this.name = name;
+  }
+
+  public int getId() {
+    return id;
+  }
+
+  public void setId(int id) {
+    this.id = id;
+  }
+
+  public String getName() {
+    return name;
+  }
+
+  public void setName(String name) {
+    this.name = name;
+  }
+}
